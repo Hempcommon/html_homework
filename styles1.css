@@ -1,0 +1,6 @@
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+b { font-weight: bold; }
+i { font-style: italic; }
+b i, i b { font-weight: bold; font-style: italic; }

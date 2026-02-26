@@ -1,0 +1,51 @@
+/* === КРАСНЫЙ ЦВЕТ === */
+.red {
+    color: red;
+}
+
+/* === ПОЛУЖИРНЫЙ ТЕКСТ === */
+.bold {
+    font-weight: bold;
+}
+
+/* === ЦВЕТА ДЛЯ СПИСКОВ === */
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+/* === РАЗМЕРЫ ШРИФТА === */
+.xxsmall {
+    font-size: 9px;
+}
+
+.xsmall {
+    font-size: 11px;
+}
+
+.small {
+    font-size: 13px;
+}
+
+.medium {
+    font-size: 16px;
+}
+
+.large {
+    font-size: 20px;
+}
+
+.xlarge {
+    font-size: 24px;
+}
+
+.xxlarge {
+    font-size: 28px;
+}
